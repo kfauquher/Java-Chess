@@ -119,6 +119,7 @@ public class Chess {
                 }
             }
     };
+         //The action of dragging a piece from one spot to another.
         frame.addMouseMotionListener(new MouseMotionListener() {
             @Override
             public void mouseDragged(MouseEvent e) {
