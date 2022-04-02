@@ -1,6 +1,3 @@
-//Author Name: Kylie Fauquher
-//Date: 03/2022
-
 package chessgame;
 
 import java.awt.Color;
